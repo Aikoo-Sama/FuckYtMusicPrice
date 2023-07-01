@@ -27,7 +27,7 @@ import ytmusicapi
 ytmusicapi.setup_oauth("oauth.json")
 ```
 
-## � Usage
+## ❤️ Usage
 
 ```bash
 python3 main.py
