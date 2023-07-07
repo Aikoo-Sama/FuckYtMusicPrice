@@ -90,12 +90,12 @@ def format_dhms(seconds):
 
     result = ""
     if days > 0:
-        result += f"{days} jour(s), "
+        result += f"{days} day(s), "
     if hours > 0:
-        result += f"{hours} heure(s), "
+        result += f"{hours} hour(s), "
     if minutes > 0:
         result += f"{minutes} minute(s), "
-    result += f"{remaining_seconds} seconde(s)"
+    result += f"{remaining_seconds} second(s)"
 
     return result
 

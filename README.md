@@ -1,5 +1,6 @@
-# YTMusic-Tracker
- Get statistics about your yt music usage
+# FuckYtMusicPrice
+
+Or how to fuck the excessive prices of Youtube subscriptions
 
 ## 🌞 Preview
 
@@ -32,6 +33,15 @@ ytmusicapi.setup_oauth("oauth.json")
 ```bash
 python3 main.py
 ```
+
+## 📝 Todo
+
+- [ ] Add a GUI
+- [ ] Add a way to export data
+- [ ] Add a way to import data
+- [ ] Add a way to see the data in a web browser
+- [ ] Add a way to see the data in a mobile app
+- [ ] Fix issue: After 7 days, data is not saved anymore, so we need to store the data in a file
 
 ## License
 
